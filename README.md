@@ -30,12 +30,11 @@ A work day scheduler application that allows a user to save events for each hour
 
 ## Usage
 
-- This workday calendar display work hours of the day 8AM - 5PM.
+- This workday calendar display work hours of the day 7AM - 7PM.
 - On the top of the page, the current day and date is displayed.
 - Each time block is color coded to indicate whether it occurs in the past(red), present(green), or future(blue).
 - Each time block has an input field and save button where users can store their schedule.
 - Once it saved, it will store in their local storage.
-- This calendar is desktop and mobile compatible.
 
 ## Website Demonstration
 
