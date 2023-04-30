@@ -35,7 +35,7 @@ A work day scheduler application that allows a user to save events for each hour
 - Each time block is color coded to indicate whether it occurs in the past(red), present(green), or future(blue).
 - Each time block has an input field and save button where users can store their schedule.
 - Once it saved, it will store in their local storage.
-
+     
 ## Website Demonstration
 
 ![](./assets/images/work-day-schedule-demo.png)
